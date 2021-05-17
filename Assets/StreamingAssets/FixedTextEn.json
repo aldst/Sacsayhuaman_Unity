@@ -1,0 +1,15 @@
+{
+  "questionTitle": "Welcome to Sacsayhuaman",
+  "questionBody": "In Sacsayhuaman there is an imposing and impressive building for the precision in their engineering. A construction built with gigantic rocks, which were placed one on the other, so that not even the tip of a pin can enter.\n\n Do you want to start the tour?",
+  "questionOption1": "No",
+  "questionOption2": "Yes",
+
+  "menuTitle": "Settings",
+  "menuVolumeLabel": "Volume",
+  "menuLanguageLabel": "Language",
+  "menuLanguageOptEs": "Spanish",
+  "menuLanguageOptEn": "English",
+  "menuBtnReturnLabel": "Return to the tour",
+  "menuBtnLeaveTourLabel": "Leave the tour",
+  "instruction": "Continue (Press W or S)"
+}

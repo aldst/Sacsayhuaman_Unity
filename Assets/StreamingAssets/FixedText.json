@@ -1,0 +1,15 @@
+{
+  "questionTitle": "Bienvenido a Sacsayhuamán",
+  "questionBody": "En Sacsayhuamán se encuentra una imponente e impresionante edificación por la precisión de su ingeniería. Una construcción edificada con gigantescas rocas, que fueron colocadas una tras otra, de tal forma que ni la punta de un alfiler puede ingresar.. \n \n ¿Quieres iniciar el tour?",
+  "questionOption1": "No",
+  "questionOption2": "Si",
+
+  "menuTitle": "Configuraciones",
+  "menuVolumeLabel": "Volumen",
+  "menuLanguageLabel": "Lenguaje",
+  "menuLanguageOptEs": "Español",
+  "menuLanguageOptEn": "Ingles",
+  "menuBtnReturnLabel": "Retornar al Tour",
+  "menuBtnLeaveTourLabel": "Salir del recorrido",
+  "instruction": "Continuar (Presione W o S)"
+}
