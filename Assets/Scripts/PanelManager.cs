@@ -283,6 +283,7 @@ public class PanelManager : MonoBehaviour
         imagePanel.SetActive(false);
         questionPanel.SetActive(false);
         textPanel.SetActive(false);
+        instructionPanel.SetActive(false);
         player.GetComponent<PlayerController>().speed = player.GetComponent<PlayerController>().originalSpeed;
         player.GetComponent<PlayerController>().started = true;
     }
