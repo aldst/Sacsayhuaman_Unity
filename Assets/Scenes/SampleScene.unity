@@ -709,7 +709,7 @@ MonoBehaviour:
   nextPoint: {fileID: 2037398640}
   type: text
   numberInteraction: 2
-  numberTourClip: '-'
+  numberTourClip: 3
 --- !u!135 &131199861
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1642,7 +1642,7 @@ MonoBehaviour:
   nextPoint: {fileID: 593452941}
   type: text
   numberInteraction: 5
-  numberTourClip: '-'
+  numberTourClip: 6
 --- !u!135 &317596559
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2123,7 +2123,7 @@ MonoBehaviour:
   nextPoint: {fileID: 444810893}
   type: text
   numberInteraction: 3
-  numberTourClip: '-'
+  numberTourClip: 4
 --- !u!135 &393744646
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2593,7 +2593,7 @@ MonoBehaviour:
   nextPoint: {fileID: 1812352583}
   type: text
   numberInteraction: 1
-  numberTourClip: '-'
+  numberTourClip: 2
 --- !u!135 &482862394
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2935,19 +2935,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spanishClips:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: cd968959c4be73642b260a345cc9827e, type: 3}
+  - {fileID: 8300000, guid: dc772ddd7ea7c2e44997ba15cc32baef, type: 3}
+  - {fileID: 8300000, guid: a5a3bf5e3e763464fa2badb699df134d, type: 3}
+  - {fileID: 8300000, guid: 2c9e1426521d2464da113e0a4bd99ac6, type: 3}
+  - {fileID: 8300000, guid: 636630517d183324da4ec5963a911486, type: 3}
+  - {fileID: 8300000, guid: ba1d66526131f6a4bb2feae75572eb62, type: 3}
   englishClips:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: 8b3b14b96de9a8b4ab3b0f7efd78684b, type: 3}
+  - {fileID: 8300000, guid: cea7a54b6e678194a830004c1a34591d, type: 3}
+  - {fileID: 8300000, guid: f7017ba34351a2a4eaf197481462c8ba, type: 3}
+  - {fileID: 8300000, guid: 9834a91846b3730439cf98d561b2de96, type: 3}
+  - {fileID: 8300000, guid: 9621b51efdd799f4fa6523360a3bd052, type: 3}
+  - {fileID: 8300000, guid: c1702c407197c974cbde9e116e1b08bd, type: 3}
   currentLanguage: 0
 --- !u!1 &557945759
 GameObject:

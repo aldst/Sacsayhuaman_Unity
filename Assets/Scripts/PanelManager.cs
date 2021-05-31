@@ -280,10 +280,12 @@ public class PanelManager : MonoBehaviour
     public void HandleAnswer(bool response)
     {
         previousResponse = response;
+        instructionPanel.SetActive(false);
+        textPanel.SetActive(false);
         imagePanel.SetActive(false);
         questionPanel.SetActive(false);
-        textPanel.SetActive(false);
-        instructionPanel.SetActive(false);
+        warningPanel.SetActive(false);
+        menuPanel.SetActive(false);
         player.GetComponent<PlayerController>().speed = player.GetComponent<PlayerController>().originalSpeed;
         player.GetComponent<PlayerController>().started = true;
     }
